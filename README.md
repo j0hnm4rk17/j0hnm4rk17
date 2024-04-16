@@ -1,6 +1,5 @@
-# 👋 Hi, I’m John Mark :>
+# Hello, I'm Kael <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="30px">
+I am a novice programmer and still in the process of learning new things. I'm a BSIT college student exploring the world of programming. Join me on my adventure as I code, learn, and create!
 
-<!---
-j0hnm4rk17/j0hnm4rk17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![wew](https://github-readme-stats.vercel.app/api?username=jmcuyos&show_icons=true&theme=transparent&rank_icon=github&hide_border=true&line_height=35&custom_title=Kael's%20Github%20Stats)
+![wew](https://github-readme-stats.vercel.app/api/top-langs/?username=jmcuyos&theme=transparent&hide_border=true&hide_title=true&count_weight=0.4&size_weight=0.4)
